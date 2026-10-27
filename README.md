@@ -23,4 +23,4 @@ Main.java bertugas membuat data karakter dan memasukkannya ke CharacterManager. 
 
 ## 6. Link Google Docs Bagian D
 
-Masukkan link Google Docs tugas Bagian D di sini.
+https://docs.google.com/document/d/1Gqi6cg1ZmMxEcr93WeuER1dCgMdVY7DK/edit?usp=drivesdk&ouid=115604189359564607117&rtpof=true&sd=true
