@@ -6,11 +6,10 @@ Pada TP8, aplikasi Character Manager dikembangkan menggunakan Java Swing. Class 
 
 ## 2. Screenshot Sebelum Perubahan
 
-c:\Users\TUF GAMING\OneDrive\Pictures\Screenshots\Screenshot 2026-11-03 175815.png
+
 
 ## 3. Screenshot Sesudah Perubahan
 
-c:\Users\TUF GAMING\OneDrive\Pictures\Screenshots\Screenshot 2026-11-03 173146.png
 
 ## 4. Aliran Data dan Konsep MVC
 
